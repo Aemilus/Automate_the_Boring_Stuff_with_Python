@@ -9,10 +9,15 @@ def collatz(number):
 
 
 if __name__ == '__main__':
-    number = int(input('Enter start of sequence: '))
-
-    value = number
-    while True:
-        value = collatz(value)
-        if value == 1:
-            break
+    try:
+        number = int(input('Enter start of sequence: '))
+        if number < 1:
+            raise ValueError
+    except ValueError:
+        print('Please enter a positive integer!')
+    else:
+        value = number
+        while True:
+            if value == 1:
+                break
+            value = collatz(value)
