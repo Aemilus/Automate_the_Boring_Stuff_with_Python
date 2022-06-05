@@ -12,6 +12,10 @@ written by Al Sweigart.
 ### [`while`](chapter02/practice02_02.py)
 ### [`break`](chapter02/practice02_03.py)
 ### [`continue`](chapter02/practice02_04.py)
+### [`for`](chapter02/practice02_05.py)
+### Importing modules
+#### [`import`]()
+#### [`from`]()
 ## [Chapter 03 – Functions](chapter03)
 ## [Chapter 04 – Lists](chapter04)
 ## [Chapter 05 – Dictionaries and Structuring Data](chapter05)
