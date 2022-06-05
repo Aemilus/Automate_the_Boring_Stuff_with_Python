@@ -1,7 +1,7 @@
 # Automate the Boring Stuff with Python
 
 Repository for practicing examples and exercises 
-from book _Automate the Boring Stuff with Python_ 
+from book _Automate the Boring Stuff with Python (2nd Edition)_ 
 written by Al Sweigart.
 
 ## [Chapter 01 – Python Basics](chapter01)
