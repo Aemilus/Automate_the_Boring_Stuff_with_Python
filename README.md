@@ -14,8 +14,9 @@ written by Al Sweigart.
 ### [`continue`](chapter02/practice02_04.py)
 ### [`for`](chapter02/practice02_05.py)
 ### Importing modules
-#### [`import`]()
-#### [`from`]()
+#### [`import`](chapter02/practice02_06.py)
+#### [`from`](chapter02/practice02_07.py)
+### [`sys.exit()`](chapter02/practice02_08.py)
 ## [Chapter 03 – Functions](chapter03)
 ## [Chapter 04 – Lists](chapter04)
 ## [Chapter 05 – Dictionaries and Structuring Data](chapter05)
