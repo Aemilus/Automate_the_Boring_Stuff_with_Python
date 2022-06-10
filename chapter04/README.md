@@ -1,8 +1,13 @@
 ## Chapter 04 – Lists
-- ### [The List Data Type](practice04_01.py)
+- ### [The `list` Data Type](practice04_01.py)
 - ### [Getting Individual Values in a List with Indexes](practice04_02.py)
 - ### [Negative Indexes](practice04_03.py)
 - ### [Getting a List from Another List with Slices](practice04_04.py)
 - ### [Getting a List’s Length with the `len()` Function](practice04_05.py)
 - ### [Changing Values in a List with Indexes](practice04_06.py)
-- 
+- ### [List Concatenation and List Replication](practice04_07.py)
+- ### [Removing Values from Lists with `del` Statements](practice04_08.py)
+- ### [Using `for` Loops with Lists](practice04_09.py)
+- ### [The `in` and `not in` Operators](practice04_10.py)
+- ### [The Multiple Assignment Trick](practice04_11.py)
+- ### [Using the `enumerate()` Function with Lists](practice04_12.py)
