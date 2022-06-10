@@ -1,11 +1,11 @@
-def collatz(number):
-    if number % 2 == 0:
-        value = number // 2
+def collatz(_number):
+    if _number % 2 == 0:
+        _value = _number // 2
     else:
-        value = 3 * number + 1
+        _value = 3 * _number + 1
 
-    print(value, end=' ')
-    return value
+    print(_value, end=' ')
+    return _value
 
 
 if __name__ == '__main__':
