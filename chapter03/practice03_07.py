@@ -2,9 +2,9 @@ import sys
 import time
 
 
-def draw_pattern(indent, pattern):
-    print(' ' * indent, end='')
-    print(pattern)
+def draw_pattern(_indent, _pattern):
+    print(' ' * _indent, end='')
+    print(_pattern)
     time.sleep(0.1)
 
 
