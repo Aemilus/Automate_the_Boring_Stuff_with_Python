@@ -1,5 +1,5 @@
-## Chapter 04 – Lists
-- ### [The `list` Data Type](practice04_01.py)
+### Chapter 04 – Lists
+- #### [The `list` Data Type](practice04_01.py)
   - #### [Getting Individual Values in a List with Indexes](practice04_02.py)
   - #### [Negative Indexes](practice04_03.py)
   - #### [Getting a List from Another List with Slices](practice04_04.py)
@@ -7,14 +7,14 @@
   - #### [Changing Values in a List with Indexes](practice04_06.py)
   - #### [List Concatenation and List Replication](practice04_07.py)
   - #### [Removing Values from Lists with `del` Statements](practice04_08.py)
-- ### Working with Lists
+- #### Working with Lists
   - #### [Using `for` Loops with Lists](practice04_09.py)
   - #### [The `in` and `not in` Operators](practice04_10.py)
   - #### [The Multiple Assignment Trick](practice04_11.py)
   - #### [Using the `enumerate()` Function with Lists](practice04_12.py)
   - #### [Using the `random.choice()` and `random.shuffle()` Functions with Lists](practice04_13.py)
-- ### [Augmented Assignment Operators](practice04_14.py)
-- ### Methods
+- #### [Augmented Assignment Operators](practice04_14.py)
+- #### Methods
   - #### [Finding a Value in a List with the `index()` Method](practice04_15.py)
   - #### [Adding Values to Lists with the `append()` and `insert()` Methods](practice04_16.py)
-  - #### [Removing Values from Lists with the remove() Method](practice04_17.py)
+  - #### [Removing Values from Lists with the `remove()` Method](practice04_17.py)
