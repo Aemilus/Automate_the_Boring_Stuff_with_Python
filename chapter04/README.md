@@ -18,3 +18,8 @@
   - #### [Finding a Value in a List with the `index()` Method](practice04_15.py)
   - #### [Adding Values to Lists with the `append()` and `insert()` Methods](practice04_16.py)
   - #### [Removing Values from Lists with the `remove()` Method](practice04_17.py)
+  - #### [Sorting the Values in a List with the `sort()` Method](practice04_18.py)
+  - #### [Reversing the Values in a List with the `reverse()` Method](practice04_19.py)
+- #### [Example Program: Magic 8 Ball with a List](practice04_20.py)
+- #### [Sequence Data Types](practice04_21.py)
+  - #### [Mutable and Immutable Data Types](practice04_22.py)
