@@ -31,3 +31,4 @@
   - [The copy Module’s `copy()` and `deepcopy()` Functions](practice04_27.py)
 - #### Practice Projects
   - [Comma Code](exercise04_01.py)
+  - [Coin Flip Streaks](exercise04_02.py)
