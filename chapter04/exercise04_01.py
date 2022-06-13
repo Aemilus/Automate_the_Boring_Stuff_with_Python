@@ -14,22 +14,22 @@ Be sure to test the case where an empty list [] is passed to your function.
 """
 
 
-def comma_code(list_with_strings: list):
-    print('original list:', list_with_strings)
-    print('length:', len(list_with_strings))
+def comma_code(_elements: list):
+    print('original list:', _elements)
+    print('length:', len(_elements))
 
-    stringified_list = ""
-    if len(list_with_strings) == 0:
-        return stringified_list
+    stringified = ""
+    if len(_elements) == 0:
+        return stringified
 
-    stringified_list = list_with_strings[0]
-    if len(list_with_strings) == 1:
-        return stringified_list
+    stringified = str(_elements[0])
+    if len(_elements) == 1:
+        return stringified
     else:
-        for my_string in list_with_strings[1:-1]:
-            stringified_list += ", " + my_string
-        stringified_list += " and " + list_with_strings[-1]
-        return stringified_list
+        for _element in _elements[1:-1]:
+            stringified += ", " + str(_element)
+        stringified += " and " + str(_elements[-1])
+        return stringified
 
 
 if __name__ == '__main__':
@@ -47,4 +47,8 @@ if __name__ == '__main__':
 
     print("\n--- multiple strings ---")
     spam = ['apples', 'bananas', 'tofu', 'cats']
+    print(comma_code(spam))
+
+    print("\n--- mixed elements type ---")
+    spam = ['apples', 1, None, False]
     print(comma_code(spam))
