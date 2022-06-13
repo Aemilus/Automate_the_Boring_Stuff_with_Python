@@ -23,3 +23,9 @@
 - #### [Example Program: Magic 8 Ball with a List](practice04_20.py)
 - #### [Sequence Data Types](practice04_21.py)
   - #### [Mutable and Immutable Data Types](practice04_22.py)
+  - #### [The `tuple` Data Type](practice04_23.py)
+  - #### [Converting Types with the `list()` and `tuple()` Constructors](practice04_24.py)
+- #### References
+  - [Identity and the `id()` Function](practice04_25.py)
+  - [Passing References](practice04_26.py)
+  - [The copy Module’s `copy()` and `deepcopy()` Functions](practice04_27.py)
