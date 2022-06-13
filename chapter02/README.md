@@ -5,6 +5,6 @@
 - #### [`continue`](practice02_04.py)
 - #### [`for`](practice02_05.py)
 - #### Importing modules
-  - #### [`import`](practice02_06.py)
-  - #### [`from`](practice02_07.py)
+  - [`import`](practice02_06.py)
+  - [`from`](practice02_07.py)
 - #### [`sys.exit()`](practice02_08.py)

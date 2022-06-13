@@ -6,4 +6,5 @@
 - #### [`global`](practice03_05.py)
 - #### [`try` `except`](practice03_06.py)
 - #### [zigzag](practice03_07.py)
-- #### [The Collatz Sequence](exercise03_01.py)
+- #### Practice Projects
+  - [The Collatz Sequence](exercise03_01.py)
