@@ -10,3 +10,5 @@
   - #### [Nested Dictionaries and Lists](practice05_08.py)
 - #### Practice Projects
   - #### [Chess Dictionary Validator](exercise05_01.py)
+  - #### [Fantasy Game Inventory](exercise05_02.py)
+  - #### [List to Dictionary Function for Fantasy Game Inventory](exercise05_03.py)
