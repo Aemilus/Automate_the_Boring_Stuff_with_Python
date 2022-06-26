@@ -6,3 +6,7 @@
   - #### [The `get()` Method](practice05_05.py)
   - #### [The `setdefault()` Method](practice05_06.py)
 - #### [Pretty Printing](practice05_07.py)
+- #### Using Data Structures to Model Real-World Things
+  - #### [Nested Dictionaries and Lists](practice05_08.py)
+- #### Practice Projects
+  - #### [Chess Dictionary Validator](exercise05_01.py)
