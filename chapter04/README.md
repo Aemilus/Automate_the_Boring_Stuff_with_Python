@@ -1,4 +1,4 @@
-#### Chapter 04 – Lists
+#### [Chapter 04 – Lists](chapter04.pdf)
 - #### [The `list` Data Type](practice04_01.py)
   - [Getting Individual Values in a List with Indexes](practice04_02.py)
   - [Negative Indexes](practice04_03.py)
