@@ -10,5 +10,7 @@
   - #### [The `join()` and `split()` Methods](practice06_08.py)
   - #### [Splitting Strings with the `partition()` Method](practice06_09.py)
   - #### [Justifying Text with the `rjust()`, `ljust()`, and `center()` Methods](practice06_10.py)
-  - #### [Removing Whitespace with the `strip()`, `rstrip()`, and `lstrip()` Methods]()
-  - 
+  - #### [Removing Whitespace with the `strip()`, `rstrip()`, and `lstrip()` Methods](practice06_11.py)
+- #### [Numeric Values of Characters with the `ord()` and `chr()` Functions](practice06_12.py)
+- #### [Copying and Pasting Strings with the `pyperclip` Module](practice06_13.py)
+- 
