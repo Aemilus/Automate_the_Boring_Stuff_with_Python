@@ -5,5 +5,10 @@
 - #### [Putting Strings Inside Other Strings](practice06_04.py)
 - #### Useful String Methods
   - #### [The `upper()`, `lower()`, `isupper()`, and `islower()` Methods](practice06_05.py)
-  - #### [The isX() Methods]()
+  - #### [The isX() Methods](practice06_06.py)
+  - #### [The `startswith()` and `endswith()` Methods](practice06_07.py)
+  - #### [The `join()` and `split()` Methods](practice06_08.py)
+  - #### [Splitting Strings with the `partition()` Method](practice06_09.py)
+  - #### [Justifying Text with the `rjust()`, `ljust()`, and `center()` Methods](practice06_10.py)
+  - #### [Removing Whitespace with the `strip()`, `rstrip()`, and `lstrip()` Methods]()
   - 
