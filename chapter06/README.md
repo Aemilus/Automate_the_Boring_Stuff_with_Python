@@ -14,4 +14,5 @@
 - #### [Numeric Values of Characters with the `ord()` and `chr()` Functions](practice06_12.py)
 - #### [Copying and Pasting Strings with the `pyperclip` Module](practice06_13.py)
 - #### [Project: Multi-Clipboard Automatic Messages](project06_01.py)
+- #### [Project: Adding Bullets to Text in Clipboard](project06_02.py)
 - 
