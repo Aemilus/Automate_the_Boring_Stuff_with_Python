@@ -13,4 +13,5 @@
   - #### [Removing Whitespace with the `strip()`, `rstrip()`, and `lstrip()` Methods](practice06_11.py)
 - #### [Numeric Values of Characters with the `ord()` and `chr()` Functions](practice06_12.py)
 - #### [Copying and Pasting Strings with the `pyperclip` Module](practice06_13.py)
+- #### [Project: Multi-Clipboard Automatic Messages](project06_01.py)
 - 
