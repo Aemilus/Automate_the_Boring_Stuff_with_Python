@@ -16,3 +16,4 @@
 - #### [Project: Multi-Clipboard Automatic Messages](project06_01.py)
 - #### [Project: Adding Bullets to Text in Clipboard](project06_02.py)
 - #### [A Short Program: Pig Latin](project06_03.py)
+- #### [Project: Table Printer](project06_04.py)
