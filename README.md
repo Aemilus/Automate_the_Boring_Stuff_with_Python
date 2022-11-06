@@ -24,3 +24,4 @@ written by Al Sweigart.
 #### [Chapter 18 – Sending Email and Text Messages](chapter18)
 #### [Chapter 19 – Manipulating Images](chapter19)
 #### [Chapter 20 – Controlling the Keyboard and Mouse with GUI Automation](chapter20)
+#### [Appendix](appendix)
