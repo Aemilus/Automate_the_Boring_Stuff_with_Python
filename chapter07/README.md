@@ -3,4 +3,6 @@
   - #### [Grouping with Parentheses](practice07_02.py)
   - #### [Matching Multiple Groups with the Pipe](practice07_03.py)
   - #### [Optional Matching with the Question Mark](practice07_04.py)
-  - 
+  - #### [Matching Zero or More with the Star](practice07_05.py)
+  - #### [Matching One or More with the Plus](practice07_06.py)
+  - #### [Matching Specific Repetitions with Braces](practice07_07.py)
